@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 空调管理员-用例图.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="11.6929in" height="8.26772in"
+		viewBox="0 0 841.89 595.276" xml:space="preserve" color-interpolation-filters="sRGB" class="st12">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvNoAutoConnect" v:prompt="" v:val="VT0(0):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#73ae42;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st2 {fill:#73ae42;font-family:宋体;font-size:1.00001em}
+		.st3 {font-family:Calibri;font-size:1em}
+		.st4 {fill:#5b9bd5;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st5 {fill:#ffffff;font-family:宋体;font-size:1.00001em}
+		.st6 {marker-end:url(#mrkr1-20);stroke:#5592c9;stroke-dasharray:3.5,2.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st7 {fill:#5592c9;fill-opacity:1;stroke:#5592c9;stroke-opacity:1;stroke-width:0.16556291390728}
+		.st8 {fill:#ffffff;stroke:none;stroke-linecap:butt}
+		.st9 {fill:#41719d;font-family:Calibri;font-size:0.666664em}
+		.st10 {font-family:宋体;font-size:1em}
+		.st11 {stroke:#5592c9;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st12 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend1">
+			<path d="M 1 -1 L 0 0 L 1 1 " style="stroke-linecap:round;stroke-linejoin:round;fill:none"/>
+		</g>
+		<marker id="mrkr1-20" class="st7" v:arrowType="1" v:arrowSize="2" orient="auto" markerUnits="strokeWidth"
+				overflow="visible">
+			<use xlink:href="#lend1" transform="scale(-6.04,-6.04) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="msvThemeOrder" v:val="VT0(0):26"/>
+		</v:userDefs>
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="连接线" v:index="0"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(136.063,-243.78)">
+			<title>参与者</title>
+			<desc>空调管理员 Administrator</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="614.465" width="78.54" height="38.3789"/>
+			<path d="M6.8 595.28 L6.8 559.84 L6.8 574.02 L0 574.02 L0 545.67 L3.4 542.13 L30.61 542.13 L34.02 545.67 L34.02 574.02
+						 L27.21 574.02 L27.21 559.84 L27.21 595.28 L17.01 595.28 L17.01 566.93 L17.01 595.28 L6.8 595.28 ZM24.09
+						 531.5 A7.08661 7.08661 -180 1 0 9.92 531.5 A7.08661 7.08661 -180 1 0 24.09 531.5 Z" class="st1"/>
+			<text x="-12.99" y="611.26" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>空调管理员<v:newlineChar/><tspan
+						x="-16.9" dy="1.233em" class="st3">Administrator</tspan></text>		</g>
+		<g id="shape2-5" v:mID="2" v:groupContext="shape" transform="translate(320.408,-340.157)">
+			<title>用例</title>
+			<desc>开启空调</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="578.268" width="113.39" height="34.0157"/>
+			<ellipse cx="56.6929" cy="578.268" rx="56.6929" ry="17.0079" class="st4"/>
+			<text x="32.69" y="582.26" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>开启空调</text>		</g>
+		<g id="shape14-8" v:mID="14" v:groupContext="shape" transform="translate(581.102,-422.362)">
+			<title>用例.14</title>
+			<desc>设定模式</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="578.268" width="113.39" height="34.0157"/>
+			<ellipse cx="56.6929" cy="578.268" rx="56.6929" ry="17.0079" class="st4"/>
+			<text x="32.69" y="582.26" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>设定模式</text>		</g>
+		<g id="shape23-11" v:mID="23" v:groupContext="shape" transform="translate(581.102,-243.78)">
+			<title>用例.23</title>
+			<desc>设定计费规则</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="578.268" width="113.39" height="34.0157"/>
+			<ellipse cx="56.6929" cy="578.268" rx="56.6929" ry="17.0079" class="st4"/>
+			<text x="20.69" y="582.26" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>设定计费规则</text>		</g>
+		<g id="group24-14" transform="translate(416.178,-369.488)" v:mID="24" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="RelationshipName" v:prompt="" v:val="VT4(&#60;&#60;包含&#62;&#62;)"/>
+				<v:ud v:nameU="ShowMulti" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="Identifying" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="DXBegin" v:prompt="" v:val="VT0(0.02362204795363):1"/>
+				<v:ud v:nameU="DYBegin" v:prompt="" v:val="VT0(-1.0547118733939E-15):1"/>
+				<v:ud v:nameU="DXEnd" v:prompt="" v:val="VT0(0.023622047953632):1"/>
+				<v:ud v:nameU="DYEnd" v:prompt="" v:val="VT0(1.6653345369377E-16):1"/>
+				<v:ud v:nameU="BeginAngle" v:prompt="" v:val="VT0(2.8199663978446E-14):32"/>
+				<v:ud v:nameU="EndAngle" v:prompt="" v:val="VT0(-2.8199663978443E-14):32"/>
+				<v:ud v:nameU="DXBegin" v:prompt="" v:val="VT0(0.038029219459483):1"/>
+				<v:ud v:nameU="DYBegin" v:prompt="" v:val="VT0(0.011991744465318):1"/>
+				<v:ud v:nameU="DXEnd" v:prompt="" v:val="VT0(0.03802921945949):1"/>
+				<v:ud v:nameU="DYEnd" v:prompt="" v:val="VT0(0.011991744465321):1"/>
+				<v:ud v:nameU="BeginAngle" v:prompt="" v:val="VT0(0.30546078513682):32"/>
+				<v:ud v:nameU="EndAngle" v:prompt="" v:val="VT0(0.30546078513683):32"/>
+			</v:userDefs>
+			<title>包含</title>
+			<desc>&#60;&#60;包含&#62;&#62;</desc>
+			<g id="shape24-15" v:mID="24" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="91.2701" cy="566.495" width="41.76" height="18.6536"/>
+				<path d="M0 595.28 L182.54 537.72" class="st6"/>
+				<rect v:rectContext="textBkgnd" x="75.3013" y="561.171" width="31.9378" height="10.6501" class="st8"/>
+				<text x="75.3" y="569.16" class="st9" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>&#60;&#60;<tspan
+							class="st10">包含</tspan>&#62;&#62;</text>			</g>
+		</g>
+		<g id="group29-24" transform="translate(412.824,-343.959)" v:mID="29" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="RelationshipName" v:prompt="" v:val="VT4(&#60;&#60;包含&#62;&#62;)"/>
+				<v:ud v:nameU="ShowMulti" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="Identifying" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="DXBegin" v:prompt="" v:val="VT0(0.02362204795363):1"/>
+				<v:ud v:nameU="DYBegin" v:prompt="" v:val="VT0(-1.0547118733939E-15):1"/>
+				<v:ud v:nameU="DXEnd" v:prompt="" v:val="VT0(0.023622047953632):1"/>
+				<v:ud v:nameU="DYEnd" v:prompt="" v:val="VT0(1.6653345369377E-16):1"/>
+				<v:ud v:nameU="BeginAngle" v:prompt="" v:val="VT0(2.8199663978446E-14):32"/>
+				<v:ud v:nameU="EndAngle" v:prompt="" v:val="VT0(-2.8199663978443E-14):32"/>
+				<v:ud v:nameU="DXBegin" v:prompt="" v:val="VT0(0.039426780672549):1"/>
+				<v:ud v:nameU="DYBegin" v:prompt="" v:val="VT0(-0.014575961094846):1"/>
+				<v:ud v:nameU="DXEnd" v:prompt="" v:val="VT0(0.039426780672553):1"/>
+				<v:ud v:nameU="DYEnd" v:prompt="" v:val="VT0(-0.014575961094847):1"/>
+				<v:ud v:nameU="BeginAngle" v:prompt="" v:val="VT0(-0.35411334652126):32"/>
+				<v:ud v:nameU="EndAngle" v:prompt="" v:val="VT0(-0.35411334652127):32"/>
+			</v:userDefs>
+			<title>包含.29</title>
+			<desc>&#60;&#60;包含&#62;&#62;</desc>
+			<g id="shape29-25" v:mID="29" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="94.6243" cy="630.258" width="41.76" height="18.6536"/>
+				<path d="M0 595.28 L189.25 665.24" class="st6"/>
+				<rect v:rectContext="textBkgnd" x="78.6555" y="624.933" width="31.9378" height="10.6501" class="st8"/>
+				<text x="78.66" y="632.92" class="st9" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>&#60;&#60;<tspan
+							class="st10">包含</tspan>&#62;&#62;</text>			</g>
+		</g>
+		<g id="shape34-33" v:mID="34" v:groupContext="shape" transform="translate(320.408,-181.417)">
+			<title>用例.34</title>
+			<desc>监控空调</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="578.268" width="113.39" height="34.0157"/>
+			<ellipse cx="56.6929" cy="578.268" rx="56.6929" ry="17.0079" class="st4"/>
+			<text x="32.69" y="582.26" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>监控空调</text>		</g>
+		<g id="group45-36" transform="translate(170.079,-285.131)" v:mID="45" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="RelationshipName" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="ShowMulti" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="Identifying" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="DXBegin" v:prompt="" v:val="VT0(0.02362204795363):1"/>
+				<v:ud v:nameU="DYBegin" v:prompt="" v:val="VT0(2.2204460492503E-16):1"/>
+				<v:ud v:nameU="DXEnd" v:prompt="" v:val="VT0(0.023622047953631):1"/>
+				<v:ud v:nameU="DYEnd" v:prompt="" v:val="VT0(0):1"/>
+				<v:ud v:nameU="BeginAngle" v:prompt="" v:val="VT0(9.3998879928152E-15):32"/>
+				<v:ud v:nameU="EndAngle" v:prompt="" v:val="VT0(0):32"/>
+				<v:ud v:nameU="DXBegin" v:prompt="" v:val="VT0(0.035417161372151):1"/>
+				<v:ud v:nameU="DYBegin" v:prompt="" v:val="VT0(0.012323644844053):1"/>
+				<v:ud v:nameU="DXEnd" v:prompt="" v:val="VT0(0.035417161372152):1"/>
+				<v:ud v:nameU="DYEnd" v:prompt="" v:val="VT0(0.012323644844053):1"/>
+				<v:ud v:nameU="BeginAngle" v:prompt="" v:val="VT0(0.33485350652111):32"/>
+				<v:ud v:nameU="EndAngle" v:prompt="" v:val="VT0(0.33485350652112):32"/>
+			</v:userDefs>
+			<title>关联</title>
+			<g id="shape45-37" v:mID="45" v:groupContext="groupContent" v:layerMember="0">
+				<path d="M0 595.28 L170 536.12" class="st11"/>
+			</g>
+		</g>
+		<g id="group50-40" transform="translate(170.079,-273.079)" v:mID="50" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="RelationshipName" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="ShowMulti" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="Identifying" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="DXBegin" v:prompt="" v:val="VT0(0.02362204795363):1"/>
+				<v:ud v:nameU="DYBegin" v:prompt="" v:val="VT0(2.2204460492503E-16):1"/>
+				<v:ud v:nameU="DXEnd" v:prompt="" v:val="VT0(0.023622047953631):1"/>
+				<v:ud v:nameU="DYEnd" v:prompt="" v:val="VT0(0):1"/>
+				<v:ud v:nameU="BeginAngle" v:prompt="" v:val="VT0(9.3998879928152E-15):32"/>
+				<v:ud v:nameU="EndAngle" v:prompt="" v:val="VT0(0):32"/>
+				<v:ud v:nameU="DXBegin" v:prompt="" v:val="VT0(0.035575915918101):1"/>
+				<v:ud v:nameU="DYBegin" v:prompt="" v:val="VT0(-0.012829025557956):1"/>
+				<v:ud v:nameU="DXEnd" v:prompt="" v:val="VT0(0.035575915918101):1"/>
+				<v:ud v:nameU="DYEnd" v:prompt="" v:val="VT0(-0.012829025557956):1"/>
+				<v:ud v:nameU="BeginAngle" v:prompt="" v:val="VT0(-0.34609535338988):32"/>
+				<v:ud v:nameU="EndAngle" v:prompt="" v:val="VT0(-0.34609535338988):32"/>
+			</v:userDefs>
+			<title>关联.50</title>
+			<g id="shape50-41" v:mID="50" v:groupContext="groupContent" v:layerMember="0">
+				<path d="M0 595.28 L170.76 656.85" class="st11"/>
+			</g>
+		</g>
+	</g>
+</svg>
